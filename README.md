@@ -14,3 +14,5 @@ It is an application in which you select one of the 6 buttons and a new window w
 ![image](https://github.com/Asavei16/ModalWindow/assets/57408487/48d65cc7-c852-4b53-a1e4-d7e986897ee4)
 
 ![ModalWindow](https://github.com/Asavei16/ModalWindow/assets/57408487/7a32720f-09a7-446d-850f-43b994bec048)
+
+## Link: https://prj2-modalwindow.netlify.app/
